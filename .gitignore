@@ -1,2 +1,6 @@
 # env
 server/env
+
+# pychache
+server/__pycache__
+server/app/__pycache__
