@@ -4,8 +4,11 @@ IN-A-NUTSHELL is an advanced AI-powered summarization tool designed to simplify 
 ## Technologies
 - Google Cloud Platform (GCP) for authentication
 - Hugging Face Inference Endpoints to host Hugging Face LLM
+  https://huggingface.co/blog/inference-endpoints-llm
 - OpenAI API for content summarization
 - Hugging Face LLM to restore punctuation in captions
+  https://huggingface.co/facebook/bart-large-cnn 
+  https://pypi.org/project/youtube-transcript-api
 - Redis to cache recent searches and skip repeat fetches
 - Python Flask server to host custom endpoints
 - React Client frontend
