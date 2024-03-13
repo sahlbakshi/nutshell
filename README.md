@@ -1,7 +1,7 @@
 # NUTSHELL
 IN-A-NUTSHELL is an advanced AI-powered summarization tool designed to simplify the process of digesting video content. By providing any YouTube Video URL, users can effortlessly obtain a concise summary of the video, its key points with timestamps and captions. This tool utilizes Hugging faces LLS and OpenAI API to process the text and accurately distill lengthy videos into easily digestible summaries.
 
-## Technologies used
+## Technologies
 - Google Cloud Platform (GCP) for authentication
 - Hugging Face Inference Endpoints to host Hugging Face LLM
 - OpenAI API for content summarization
