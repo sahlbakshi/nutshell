@@ -12,10 +12,12 @@ IN-A-NUTSHELL is an advanced AI-powered summarization tool designed to simplify 
 - Styled with Tailwind CSS and Figma
 
 ## App
-<img src="https://github.com/sahlbakshi/nutshell/images/Screenshot 2024-03-12 at 8.55.03 PM.png" width="400px" style="pointer-events: none;"/>
-<img src="https://github.com/sahlbakshi/nutshell/images/Screenshot 2024-03-12 at 8.55.10 PM.png" width="400px" style="pointer-events: none;"/>
-<img src="https://github.com/sahlbakshi/nutshell/images/Screenshot 2024-03-12 at 8.55.15 PM.png" width="400px" style="pointer-events: none;"/>
-<img src="https://github.com/sahlbakshi/nutshell/images/Screenshot 2024-03-12 at 8.55.18 PM.png" width="400px" style="pointer-events: none;"/>
+![Screenshot 2024-03-12 at 8 55 03 PM](https://github.com/sahlbakshi/nutshell/assets/86169374/54bcceeb-db77-4ca8-894d-0f24c6b8481b)
+
+![Screenshot 2024-03-12 at 8 55 15 PM](https://github.com/sahlbakshi/nutshell/assets/86169374/dc223a89-17a4-4a5c-8660-9fc6832beaf1)
+
+![Screenshot 2024-03-12 at 8 55 18 PM](https://github.com/sahlbakshi/nutshell/assets/86169374/18d2ae1c-f5fd-49ae-941c-5eb0d4ddbec9)
+
 
 ## Next Steps
 - [] Deployment
